@@ -1,7 +1,7 @@
 Description: >
   Dipen Chawla
-  This is the network template file for our infrastructure
-  Creates - VPC, Internet Gateway, NAT, Public and Private Subnets and Routes
+  This is the server template file for our infrastructure
+  Creates - LoadBalancer, SecurityGroup, Role for s3 download, LaunchConfiguration and WebAppGroup
 
 Parameters:
   EnvironmentName:
