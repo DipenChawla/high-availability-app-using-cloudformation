@@ -24,3 +24,5 @@ Creates - LoadBalancer, SecurityGroup, Role for s3 download, LaunchConfiguration
 ./update_stack.sh <stack-1> network.yml network-parameters.json
 ./update_stack.sh <stack-2> servers.yml server-parameters.json
 ```
+
+SEE `successful-deployment.png` FOR THE DEPLOYMENT OF APP WITH HTTP FOLLOWED BY LOADBALANCER-URL
